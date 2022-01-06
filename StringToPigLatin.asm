@@ -1,4 +1,4 @@
-
+# Takes a string and convert it to pig latin format
         .data
 prompt: .asciiz "Enter the string: "
 result: .asciiz "converted string in Pig Latin: "
