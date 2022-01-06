@@ -1,4 +1,6 @@
 	.data #declaring data
+# Progam asks user to enter ten random integers and index number
+# Later program returns the interger at the given index 
 
 prompt:	.asciiz "Enter ten integers \n" 
 output: .asciiz  " the i'th integer in the array: "
