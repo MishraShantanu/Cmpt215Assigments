@@ -1,5 +1,8 @@
 .data 
 
+# Asks user to enter two strigs and then compare the common character in both strings. 
+# Retuns the number of common found in both the string. 
+
 prompt: .asciiz "Enter string"
 newl: .asciiz "\n" 
 output: .asciiz "the number of charcter that are found in both strings\n"
