@@ -1,3 +1,4 @@
+# Ask user to provide a K value, using which progam computes pie value
 	  .data
 prompt1:  .asciiz "enter the value for k:  "
 output:	  .asciiz "Approximate value of pie==> "
